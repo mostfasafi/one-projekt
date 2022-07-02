@@ -1,7 +1,7 @@
 .info a {
 	text-decoration:none;
 	font-family:Arial;
-	color:#26D381;
+	color:#6599FF;
 	font-size:15px;
 }
 a:hover {
@@ -50,13 +50,13 @@ li {
 li a {
 	font-size:17px;
 	text-decoration:none;
-	color:#26D381;
+	color:#6599FF;
 }
 li a:hover {
 	color:#00E1FF;
 }	
 .title {
-	color:#26D381;
+	color:#6599FF;
 	text-align:center;
 	font-size:27px;
 	border-bottom:1px solid #E6E6E6;
@@ -67,7 +67,7 @@ li a:hover {
 	padding-top:5px;
 }
 .intro-info a {
-	color:#26D381;
+	color:#6599FF;
 	text-decoration:none;
 }
 .intro-info a:hover {
@@ -82,7 +82,7 @@ li a:hover {
 	text-align:center;
 }
 .footer a {
-	color:#26D381;
+	color:#6599FF;
 	text-decoration:none;
 }
 .footer a:hover {
